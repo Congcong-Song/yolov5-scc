@@ -12,3 +12,7 @@ csdn：https://zhuanlan.zhihu.com/p/416985509
 ## 权重和配置文件（包括.pt和.yaml）：
 链接：https://pan.baidu.com/s/1EuYCRCoui3ChML2pvSfpUQ 
 提取码：qt5m 
+
+## 环境配置
+python3.8
+pytorch1.8
